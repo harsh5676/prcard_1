@@ -1,5 +1,5 @@
 body {
-    background: url(/images/bg-pattern-top.svg) -340px -570px no-repeat, url(/images/bg-pattern-bottom.svg) 510px 380px no-repeat;
+    background: url(images/bg-pattern-top.svg) -340px -570px no-repeat, url(images/bg-pattern-bottom.svg) 510px 380px no-repeat;
     background-color:hsl(185, 75%, 39%);
     max-width: 100%;
     height: auto;
