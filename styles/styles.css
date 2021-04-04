@@ -1,0 +1,110 @@
+body {
+    background: url(/images/bg-pattern-top.svg) -340px -570px no-repeat, url(/images/bg-pattern-bottom.svg) 510px 380px no-repeat;
+    background-color:hsl(185, 75%, 39%);
+    max-width: 100%;
+    height: auto;
+    padding: 30px;
+    font-family: 'Kumbh Sans';
+    color: hsl(229, 23%, 23%);
+}
+
+hr {
+    height: 0.1px;
+    border: 0;
+    background-color: hsl(0, 0%, 90%);
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+h4 {
+    margin-bottom: 0px;
+
+}
+
+em {
+    font-style: normal;
+    font-weight: 500;
+    color: hsl(227, 10%, 46%);
+}
+
+.top {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0;
+}
+
+.main {
+    position: relative;
+    height: 400px;
+    width: 350px;
+    background-color: white;
+    margin: 50px auto;
+    border-radius: 10%;
+
+}
+
+.lon {
+    text-align: center;
+    font-size: 15px;
+    color: hsl(227, 10%, 46%);
+
+}
+
+.person {
+    background-color: white;
+    border: 3px solid white;
+    position: relative;
+    width: 90px;
+    border-radius: 100%;
+    margin: -50px 10px 20px 125px;
+}   
+
+.pattern {
+    border-radius: 34px 34px 0 0;
+}
+
+.top-text {
+    font: medium;
+    width: 150px;
+    margin: auto;
+}
+
+.bottom1 {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.bottom2 {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    margin-right: 48px;
+    margin-left: 45px;
+}
+
+.bottom3 {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.btm {
+    font-size: 18px;
+}
+
+.btm-sub {
+    font-style: normal;
+    font-size: x-small;
+    letter-spacing: .2rem;
+    color: hsl(227, 10%, 46%);
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
